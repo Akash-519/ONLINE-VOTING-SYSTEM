@@ -18,3 +18,27 @@ TASKS:
 
 That's all about the project.
 THANK YOU.
+
+ONLINE VOTING SYSTEM SNAPSHOTS:
+
+1. HOME PAGE
+![Home page ovs](https://user-images.githubusercontent.com/120900587/210301676-b2063185-fe67-422e-b28b-03a11577b94a.png)
+
+2. ABOUT
+![about page ovs](https://user-images.githubusercontent.com/120900587/210301756-fdfa0e1c-82ce-48ca-9d6d-4d773f38de61.png)
+
+3. CONTACT US
+![Contact us page ovs](https://user-images.githubusercontent.com/120900587/210301838-15965ae2-91c0-4bff-a4ea-1785fbbf6904.png)
+
+4. RESULT
+![Result page ovs](https://user-images.githubusercontent.com/120900587/210301870-59a2af2e-e655-4aef-970d-f54247c96467.png)
+
+
+5. ADMIN HOME PAGE
+![Admin Home page ovs](https://user-images.githubusercontent.com/120900587/210301704-40ffe396-3b66-483b-9dbf-f2faf82f06d8.png)
+
+6. VOTER REGISTRATION
+![Voter registration ovs](https://user-images.githubusercontent.com/120900587/210301906-e4192972-5abc-446e-a06c-581b992861b7.png)
+
+7. VOTING 
+![voting page ovs](https://user-images.githubusercontent.com/120900587/210301929-a47aabd2-cb81-49a3-b3df-419d0485c6ca.png)
